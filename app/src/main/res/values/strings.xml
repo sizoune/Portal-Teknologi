@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Portal Teknologi</string>
+    <string name="date_text">Wed, 20 Jan 19, 05:08 PM</string>
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="technology">Technology</string>
+    <string name="tech_news">Tech news</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="dateHolder">Dibuat pada tanggal</string>
+    <string name="date">Date</string>
+    <string name="error_get_data">Terjadi Kesalahan saat mengambil data !</string>
+    <string name="retry">Muat Ulang</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="baca_artikel"><annotation type="artikel_link">Baca Artikel Selengkapnya</annotation></string>
+    <string name="about">About</string>
+    <string name="author_app_name">Muhammad Wildan Iskandar</string>
+    <string name="author_app_mail">muhammadwildaniskandar@gmail.com</string>
+</resources>
